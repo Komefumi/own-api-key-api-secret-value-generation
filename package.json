@@ -1,0 +1,14 @@
+{
+  "name": "own-api-key-api-secret-value-generation",
+  "version": "0.0.1",
+  "main": "generate.js",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.1.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.0"
+  },
+  "description": "Generate alphanumeric values similar to what Shopify and Twitter provide for API_KEY and API_SECRET",
+  "author": "Hafiz <komefumi@protonmail.ch>"
+}
